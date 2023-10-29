@@ -1,0 +1,77 @@
+ /* .nav{
+    /* margin-right: 56%; */
+    /* margin-bottom: 390px; */
+   /* margin-top: 30PX;
+   /* margin-left: 10% ; */
+   /* margin-right: 30% */
+   /* margin-left:  239Px;
+   margin-top: 65px; */
+ /* }    */
+  
+/* .links{
+    font-family:Nirmala UI;
+    direction: ltr;
+    color: #fedeaa;
+    /* margin-left: 30%; */
+    /* margin-top: 50px; */
+    /* font-size: 40px;
+    grid-area: nav;
+flex-direction: column;
+display: inline-block;
+margin-right: 35%;
+} */ 
+
+/* a{
+    text-decoration: none;
+    color:#c97814;
+    margin-left: 10px;
+    margin-right: 90px;
+    font-size: 25px;
+} */
+/* a:hover{
+    color:#fedeaa;
+} */
+.log{
+    background-color: rgb(195 194 183);
+    border-radius: 30px;
+    width: 4;
+    margin-right:50%;
+    width: 3.9%;
+    /* margin-left: 600px; */
+    /* width: 1.6%;
+    float: right;
+   
+    margin-top: -42px;
+    margin-right: 40px; */
+}
+.log:hover{
+    background-color: #504d4a;
+}
+.log:hover{
+    background-color:#6c6a68;
+}
+
+.Menubutton{
+    background-color: white;
+    border: solid 2px #6cd3ff;
+    color: rgb(74, 73, 73);
+    padding: 1px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    /* margin: 4px 2px; */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: 'Amatic SC';
+    border-radius: 6px;
+    margin-left: 17px;
+
+}
+.Menubutton:hover{
+  background-color: rgba(139, 136, 136, 0.315);
+   border: none;
+}
+.not{
+    background-color: unset;
+}

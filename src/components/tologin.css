@@ -1,0 +1,130 @@
+body{
+    direction: rtl;
+}
+#new{
+    font-size: 15px;
+    text-decoration: double;
+}
+.allsihgap{
+  
+    background-size: 50%;
+    width: 353px;
+    height: 300px;
+    /* margin-top: 118px; */
+    background-color: rgba(159, 151, 156, 0.116);
+    margin-right: 40%;
+    margin-top: 58px;
+} 
+#formlog{
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: Modulari;
+    
+}
+
+
+input[type=text], [type=password], [type=submit] {
+    margin-bottom: 15px;
+    background-color: unset;
+    color: #082237;
+}
+
+input{
+    width: 205px;
+    height: 26px;
+    border-radius: 12px;
+    color: orange;
+   
+    font-size: 13px;
+    margin-top: 10px;
+    /* margin-bottom: 29px; */
+ }
+
+ Dialog{
+    background-color: rgb(16, 17, 17);
+ }
+ #yet{
+    display: flex;
+    flex-direction: column;
+    margin-right: 23%;
+ }
+ #out{
+    width: 64%;
+    border: none;
+    border-radius: px;
+    border-radius: 6px;
+    height: 59px;
+    background-color: orange;
+    color: aliceblue;
+    margin-bottom: 15px;
+ }
+ #out:hover{
+    background-color: rgb(56, 53, 53);
+ }
+.labelName{
+    display:block;
+    font-weight: bold;
+    padding-left: 30px;
+   
+}
+.labelEroor{
+display: block;
+color: red;
+padding-left: 10px;
+font-weight: bold;
+   
+}
+.formgroup{
+   
+   
+    font-size: 100%;
+     display: block;
+}
+.mydiv{
+    margin-right: 30%;
+    margin-top: -2.5%;
+   
+}
+.formgroup{
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    margin-bottom: 20px;
+}
+.p{
+    font-family: Amatic SC;
+    font-size: 27px;
+    align-self: center;
+    float: unset;
+    margin-left: 2px;
+    margin-bottom: 25px;
+    margin-top: 9.5px;
+    text-decoration: underline;
+}
+.p:hover{
+   opacity: 70%;
+}
+.dd{
+    /* background-image: url("../components//pic//LogIn.jpg");
+    background-size: contain;
+    background-repeat: no-repeat; */
+    /* background-image: none; */
+    width:100%;
+    height:1000px;
+    background-color:unset;
+    margin-top: -20;
+}
+.imgg{
+    position: relative;
+    
+    margin-top: -26%;
+    margin-left: 60%;
+}
+.h1{
+   font-family:  'Amatic SC';
+    font-size: 100px;
+    position: relative;
+    margin-top: 22px;
+    color: #15426e;
+}

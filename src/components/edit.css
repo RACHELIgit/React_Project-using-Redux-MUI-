@@ -1,0 +1,33 @@
+
+/* .editDiv{
+background-image: url("../components/pic//edit.png");
+background-size: cover;
+opacity: 50%;
+height: 700px;
+margin-top: -179px;
+} */
+
+.editimg{
+    width: 35%;
+    position: relative;
+    margin-top: -43px;
+}
+.editimg2{
+    width: 35%;
+    position: relative;
+    margin-top: -33px;
+    float: left;
+    opacity: 17%;
+}
+.wa{
+    background-size: 50%;
+    width: 353px;
+    height: 300px;
+    /* margin-top: 118px; */
+    background-color: rgba(159, 151, 156, 0.116);
+    margin-right: 3%;
+    margin-top: 57px;
+}
+.editDiv{
+    display: flex;
+}
